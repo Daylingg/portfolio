@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.43456803.css",
+    "main.js": "/static/js/main.c3280ac1.js",
+    "static/media/fotPort2.png": "/static/media/fotPort2.cf4bc8b1f250490d928a.png",
+    "static/media/CVDay.pdf": "/static/media/CVDay.dc7743358565880aecf3.pdf",
+    "static/media/chatJournal.png": "/static/media/chatJournal.fb348806d24bc167526b.png",
+    "static/media/javascriptQuiz.png": "/static/media/javascriptQuiz.c09a59f9f5d340c54eb5.png",
+    "static/media/expenseTracker.png": "/static/media/expenseTracker.7fa40eef9a11c69127b3.png",
+    "static/media/cerito.png": "/static/media/cerito.6083dd07a504fc93c461.png",
+    "static/media/clonGoogleTranslate.png": "/static/media/clonGoogleTranslate.1a9db54b8578d951ece1.png",
+    "static/media/AdivinaPalabra.png": "/static/media/AdivinaPalabra.e6f7bb3150bdc83a705d.png",
+    "static/media/juegoAhorcado.png": "/static/media/juegoAhorcado.3bd7192a6387534390db.png",
+    "index.html": "/index.html",
+    "main.43456803.css.map": "/static/css/main.43456803.css.map",
+    "main.c3280ac1.js.map": "/static/js/main.c3280ac1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43456803.css",
+    "static/js/main.c3280ac1.js"
+  ]
+}
